@@ -30,9 +30,6 @@ I'm a Le Wagon Fullstack Bootcamp graduate based in Shanghai. 🌟 I'm passionat
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="http://www.github.com/edwinc73">
-    <img src="https://github-readme-stats.vercel.app/api?username=edwinc73&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="edwinc73's GitHub stats" />
-  </a>
-  <a href="http://www.github.com/edwinc73">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinc73&stroke=ffffff&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
 </div>
