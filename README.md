@@ -4,12 +4,11 @@ Hi 👋 My name is Edwin!
 Web Developer and Designer
 --------------------------
 
-I'm a Le Wagon Fullstack Bootcamp graduate based in Shanghai. 🌟 I love creating awesome user experiences with React, Bootstrap, Framer, and Redux. 🚀 Outside of coding, I enjoy climbing 🧗‍♂️, AI art 🎨, and fitness 💪. I'm passionate about crafting accessible and engaging web experiences. Always eager to learn and grow, I'm excited to contribute to the tech community! 🌐
+I'm a Le Wagon Fullstack Bootcamp graduate based in Shanghai. 🌟 I'm passionate about crafting accessible and engaging web experiences. Always eager to learn and grow, I'm excited to contribute to the tech community! 🌐
 
 * 🌍  I'm based in Shanghai
 * ✉️  You can contact me at [edwincheng09@googlemail.com](mailto:edwincheng09@googlemail.com)
 * 🚀  I'm currently working on [Constant Self Improvement](http://https://www.frontendmentor.io/)
-* 🧠  I'm learning about web accessibility WCAG
 * ⚡  Talk to me about bouldering 🪨, Stable Diffusion 🎨 or Food 😋
 
 ### Skills
